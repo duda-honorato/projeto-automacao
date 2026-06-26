@@ -8,20 +8,15 @@ Projeto de automação de testes para o site [Sauce Demo](https://www.saucedemo.
 - npm (v8 ou superior)
 
 ## ▶️ Execução
-- OPÇÃO 1: Interface Visual
-npx playwright test --ui
+- OPÇÃO 1: Interface Visual: npx playwright test --ui
 
-- OPÇÃO 2: Modo Headless
-npx playwright test
+- OPÇÃO 2: Modo Headless: npx playwright test
 
-- OPÇÃO 3: Executar com navegador visível
-npx playwright test --headed
+- OPÇÃO 3: Executar com navegador visível: npx playwright test --headed
 
-- OPÇÃO 4: Executar apenas um teste específico
-npx playwright test purchase-flow.spec.js
+- OPÇÃO 4: Executar apenas um teste específico: npx playwright test purchase-flow.spec.js
 
-- OPÇÃO 5: Executar em modo debug
-npx playwright test --debug
+- OPÇÃO 5: Executar em modo debug: npx playwright test --debug
 
 ## 🚀 Instalação
 
